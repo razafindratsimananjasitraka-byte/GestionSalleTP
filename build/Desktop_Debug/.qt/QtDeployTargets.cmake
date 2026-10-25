@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_GestionSalles_FILE /home/jaste/GestionSalles/build/Desktop_Debug/GestionSalles)
+set(__QT_DEPLOY_TARGET_GestionSalles_TYPE EXECUTABLE)
